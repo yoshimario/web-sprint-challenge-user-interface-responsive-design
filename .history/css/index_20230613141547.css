@@ -193,33 +193,6 @@ header {
     background-color: rgba(0, 14, 7, .8);
 }
 
-nav {
-    margin: 1% 0;
-}
-
-.links {
-    display: flex;
-    justify-content: space-evenly;
-}
-
-nav button {
-    background: none;
-    border: none;
-}
-
-nav a {
-    font-size: 2.5rem;
-}
-
-.socialLinks {
-    margin: 0 45%;
-    /* background-color: rgba(0, 0, 0, .1); */
-    display: flex;
-    justify-content: space-between;
-    padding: 1% 0;
-    margin: 1% 40%;
-}
-
 /* spacers */
 .spacer {
     width: 100%;
