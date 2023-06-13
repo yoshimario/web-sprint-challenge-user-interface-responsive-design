@@ -188,10 +188,6 @@ a {
     color: white;
 }
 
-a:hover {
-    color: orangered;
-}
-
 /* header section */
 header {
     width: 100%;

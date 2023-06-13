@@ -163,33 +163,20 @@ i {
 }
 
 h1 {
-    font-size: 5rem;
-    color: white;
-    text-align: center;
-    margin: 1% 0;
+    font-size: 7.5rem;
 }
 
 h2 {
-    font-size: 4rem;
-    color: white;
+    font-size: 6rem;
 }
 
 h3 {
-    font-size: 3rem;
-}
-
-h4 {
-    font-size: 2.5rem;
+    font-size: 5rem;
 }
 
 p,
 a {
     font-size: 3rem;
-    color: white;
-}
-
-a:hover {
-    color: orangered;
 }
 
 /* header section */
@@ -310,7 +297,7 @@ nav a {
 }
 
 .text p {
-    font-size: 2.8rem;
+    font-size: 2.5rem;
     text-overflow: clip;
 }
 
@@ -367,12 +354,6 @@ footer {
     height: 15vh;
     padding-top: 2.5vh;
     font-size: 3rem;
-}
-
-footer h3 {
-    width: 100%;
-    font-size: 2.8rem;
-    text-align: center;
 }
 
 #email {

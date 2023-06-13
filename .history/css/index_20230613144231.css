@@ -185,11 +185,7 @@ h4 {
 p,
 a {
     font-size: 3rem;
-    color: white;
-}
-
-a:hover {
-    color: orangered;
+    color
 }
 
 /* header section */

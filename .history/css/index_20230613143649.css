@@ -177,19 +177,13 @@ h2 {
 h3 {
     font-size: 3rem;
 }
-
-h4 {
-    font-size: 2.5rem;
+h4{
+    font-size: 3rem;
 }
 
 p,
 a {
     font-size: 3rem;
-    color: white;
-}
-
-a:hover {
-    color: orangered;
 }
 
 /* header section */
