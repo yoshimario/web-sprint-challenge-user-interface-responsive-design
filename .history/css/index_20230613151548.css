@@ -367,6 +367,7 @@ footer {
     height: 15vh;
     padding-top: 2.5vh;
     font-size: 3rem;
+    color: black;
 }
 
 #email {
@@ -383,6 +384,9 @@ footer {
 #email input,
 #email button {
     font-size: 2rem;
+    width: 100%;
+    padding: 1% 0%;
+    margin: 0;
 }
 
 #email input {

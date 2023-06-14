@@ -368,6 +368,20 @@ footer {
     padding-top: 2.5vh;
     font-size: 3rem;
 }
+.footerStyle {
+    flex-direction: column;
+    align-items: center;
+}
+.footerStyling div{
+    width: 100%;
+    max-width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footerStyling div h3{
+   margin: 2% 0;
+}
 
 #email {
     width: 35%;
@@ -383,6 +397,9 @@ footer {
 #email input,
 #email button {
     font-size: 2rem;
+    width: 100%;
+    padding: 1% 0%;
+    margin: 0;
 }
 
 #email input {
